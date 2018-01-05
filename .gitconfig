@@ -1,0 +1,6 @@
+[user]
+	name = a-bakos
+[core]
+	editor = 'c:/program files/sublime text 3/sublime_text.exe' -w~
+[color]
+	ui = auto
