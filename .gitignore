@@ -1,2 +1,8 @@
 node_modules/
 *.map
+
+# Folder view configuration files
+Desktop.ini
+
+# Thumbnail cache files
+Thumbs.db
